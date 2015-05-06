@@ -1,7 +1,7 @@
 {
-  "name": "radio",
+  "name": "radiojs",
   "version": "0.2.0",
-  "main": "./radio.js",
+  "main": "radio.js",
   "dependencies": {
   },
   "devDependencies":{
